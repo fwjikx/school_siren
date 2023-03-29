@@ -1,1 +1,2 @@
 maintoken = 'vk1.a.SIagh1n0Ts9oFMBe1NmvUJQphTSs92Cg2YSedBUgaNr8FjcV-cXISV1b5gmYBZpd36C2-X5_WlSAzMEHgT0WbfvplXkS6B2niUcn1JEVn4ttgt9d9gr_8dr8axsxo0q1XWv0BDQk0fRexdOOy1daefOk4ynl5UJPX7xckwgJKMMFQGBNhpZKxC2VoD_xtiYGgm2oJiO8M6jv5Bh5xg2NMA'
+tg_token = '612485708'
