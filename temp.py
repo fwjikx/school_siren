@@ -137,7 +137,7 @@ def main_window():
             sp2 = []
 
             start_diap = 0  # Старт диапазона (урока)
-            stop_diap = 0  # Конец диапазона (урока)
+            stop_diap = 0  # Конец диапазона (урока)``
 
             my_time = dt.datetime.now()
             now_hour = my_time.hour
